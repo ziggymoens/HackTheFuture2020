@@ -1,4 +1,4 @@
-![banner](.github/troll_banner.jpeg)
+![banner](data/troll_banner.jpeg)
 
 # Hack The Future 2020
 
